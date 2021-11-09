@@ -1,0 +1,13 @@
+flask
+pymongo[srv]
+gunicorn
+pandas
+numpy
+scikit-learn
+sklearn
+Jinja2
+MarkupSafe
+scipy
+matplotlib
+backports.csv==1.0.7
+unicodecsv==0.14.1
